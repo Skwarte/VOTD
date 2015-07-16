@@ -1,0 +1,45 @@
+{
+    "appKeys": {
+        "KEY_PASSAGE": 1,
+        "KEY_VERSE": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Samuel Kwarteng",
+    "longName": "Verse of the Day",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/cross.png",
+                "menuIcon": true,
+                "name": "IMAGE_CROSS",
+                "type": "png"
+            },
+            {
+                "file": "images/Solid_black.png",
+                "name": "BLACK_RECT",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_13",
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_15",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "VOTD",
+    "uuid": "2e588d63-82c5-4e77-9799-59d242e17f7a",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
